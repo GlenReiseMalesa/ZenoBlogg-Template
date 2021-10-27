@@ -5,6 +5,11 @@
 
 }
 
+#body{
+	width: 80%;
+	margin: 0 auto;
+}
+
 #aboutCard{
 
   width: 40%;
