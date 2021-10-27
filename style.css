@@ -10,6 +10,14 @@
 	margin: 0 auto;
 }
 
+
+@media only screen and (max-width: 980px) {
+  #body {
+    	width: 100%;
+	margin: 0;
+  }
+}
+
 #aboutCard{
 
   width: 40%;
